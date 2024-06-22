@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BiteBliss/static/css/main.385af561.css",
+    "main.js": "/BiteBliss/static/js/main.572e8a97.js",
+    "static/js/453.5567d74c.chunk.js": "/BiteBliss/static/js/453.5567d74c.chunk.js",
+    "index.html": "/BiteBliss/index.html",
+    "static/media/trash.svg": "/BiteBliss/static/media/trash.645a4389b5c6a6d486e1433e4258049b.svg",
+    "main.385af561.css.map": "/BiteBliss/static/css/main.385af561.css.map",
+    "main.572e8a97.js.map": "/BiteBliss/static/js/main.572e8a97.js.map",
+    "453.5567d74c.chunk.js.map": "/BiteBliss/static/js/453.5567d74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385af561.css",
+    "static/js/main.572e8a97.js"
+  ]
+}
